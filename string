@@ -16,6 +16,6 @@ last_name_len = len(player[player.find(" ") :]
 
 name_short =
 
-chant = f"{first_name}!" 5 len(first_name)
+chant = f"{first_name}!" 6 len(first_name)
  
 good_chant =

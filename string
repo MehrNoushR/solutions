@@ -1,0 +1,21 @@
+Part 1
+
+scorer_1 = "John Dijk"
+scorer_2 = "Gio Jong"
+
+goal_1 = 20
+goal_2 = 80
+
+Scorers = scorer_1 + " " + str (goal_1), +scorer_2 + "" +str (goal_2)
+
+report = f" {scorer_1} scored in {goal_1}nd minute\n {scorer_2} scored in {goal_2}th minute"
+
+player = "Ronald Koeman"
+first_name =player[: player.find(" ")]
+last_name_len = len(player[player.find(" ") :]
+
+name_short =
+
+chant = f"{first_name}!" 5 len(first_name)
+ 
+good_chant =
